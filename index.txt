@@ -1,0 +1,23 @@
+--------{ untw0's Papers }--------
+
+{ Malware Analysis / Threat Intel }
+
+0.1 - { https://maiquelpaiva.github.io/malware/kimsukyps1.txt }
+
+{ Blockchain }
+
+0.1 - { ... }
+
+{ CTF Plataforms }
+
+-> { https://pwnable.tw/user/36967 }
+-> { https://tryhackme.com/p/untw0 }
+-> { https://bazaar.abuse.ch/user/20981/ }
+-> { https://cyberdefenders.org/p/untw0 }
+-> { https://vulnerable.codes/user/untw0 }
+-> { https://app.hackthebox.com/profile/1748574 }
+
+{ Social Midia }
+
+-> { Twitter: https://x.com/untw0 }
+-> { Linkedin: https://www.linkedin.com/in/maiquel-paiva/ }
